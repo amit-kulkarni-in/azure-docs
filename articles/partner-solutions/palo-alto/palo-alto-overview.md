@@ -34,7 +34,7 @@ Here are the key capabilities provided by the Palo Alto integration:
 
 1. Navigate to the Azure Marketplace page.
 
-1. Search for _Palo Alto_. Select **Cloud Next-Generation Firewall by Palo Alto**.
+1. Search for _Palo Alto_. Select **Cloud Next-Generation Firewall by Palo Alto Networks**.
 
 1. In the Marketplace, you see the offer for **Cloud Next-Generation Firewall by Palo Alto Networks - an Azure Native ISV Service**. Select, **Subscribe**.
 
